@@ -13,7 +13,7 @@
 ## Project Summary
 In today's generation, taking photos of what people eat is a massive cultural and influential phenomenon on platforms like Instagram. In fact, according to social media research by Influencer Marketing Hub in 2021, hashtags related to food such as #food, #yummy, #foodporn, and #instafood are among the 100 most popular hashtags are used in the approximately 50 billion photos posted on Instagram as of 2021. It means food is one of the most photographed subjects on the said platform. 
 <br><br>
-![sample-ui](/Images/sample-ui.png?raw=true "sample-ui")
+![ui-sample](/Images/ui-sample.png?raw=true "ui-sample")
 <br><br>
 Instead of posting these food photos solely for display, why not use these to learn more about people's food? Through our proposed app entitled Foodprint, which mainly utilizes Image Recognition, we can be aware of the estimated calories of the food we consume daily, weekly, or monthly.
 <br><br>
