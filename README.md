@@ -6,8 +6,8 @@
 * [Contributors](#contributors)
 
 ## General info
-Foodprint aims to increase awareness of health risk factors by providing warnings and precautions if your eating habits are taking an unpleasant turn. Through the use of computer vision in a wide variety of android phones, we can promote Healthier, Longer, and Better Lives.
-<br>
+<b>Foodprint</b> aims to increase awareness of health risk factors by providing warnings and precautions if your eating habits are taking an unpleasant turn. Through the use of computer vision in a wide variety of android phones, we can promote Healthier, Longer, and Better Lives.
+<br><br>
 ![Foodprint](/Images/Foodprint.gif?raw=true "Foodprint")
 
 ## Project Summary
