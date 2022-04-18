@@ -1,5 +1,5 @@
 # HackUST Online Hackathon 2022
-## FoodPrint
+## FoodPrint by the NexUs Team
 * [General info](#general-info)
 * [Project Summary](#general-info)
 * [Technologies](#technologies)
