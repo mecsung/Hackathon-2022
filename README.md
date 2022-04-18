@@ -1,9 +1,9 @@
 # HackUST Online Hackathon 2022
 ## Foodprint
 * [General info](#general-info)
-* [Project Summary](#general-info)
+* [Project Summary](#project-summary)
 * [Technologies](#technologies)
-* [Contributors](#contributors)
+* [The NexUs Team](#the-nexus-team)
 
 ## General info
 <b><i>Foodprint</i></b> aims to increase awareness of health risk factors by providing warnings and precautions if your eating habits are taking an unpleasant turn. Through the use of computer vision in a wide variety of android phones, we can promote <b><i>Healthier, Longer, and Better Lives.</i></b>
