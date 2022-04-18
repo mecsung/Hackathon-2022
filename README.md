@@ -1,6 +1,6 @@
 # HackUST Online Hackathon 2022
 ## Foodprint
-![Foodprint](/Images/Fooprint.gif?raw=true "Foodprint")
+![Foodprint](/Images/Foodprint.gif?raw=true "Foodprint")
 * [General info](#general-info)
 * [Project Summary](#general-info)
 * [Technologies](#technologies)
@@ -16,6 +16,7 @@ Instead of posting these food photos solely for display, why not use these to le
 <br>
 According to the latest update of the World Health Organization, nutritional diseases such as obesity and malnutrition have significantly affected people's life span, reducing it to almost ten years. Moreover, many mobile applications tended to help the said problem, like food tracker apps that people can use to improve and keep track of their eating habits. Still, it is noticeable that most of these apps are too tedious and complicated to use, requiring every user to enter an absurd amount of information before they can even use them. Also, it is very time-consuming and takes a lot of discipline to input every type of food manually. Lastly, some applications are not suitable for general audiences due to focusing only on gym exercises. Thus, Foodprint is a mobile application that can easily monitor eating habits with just a photo snap. With the help of Image Recognition and Machine Learning, it can tell users the estimated nutritional information about the food they eat. Furthermore, Foodprint will utilize the image recognition model, including the idea of a custom dataset containing various types of food on pre-trained weights.
 <br>
+![sample-ui](/Images/sample-ui.png?raw=true "sample-ui")
 This project found that controlling a person's eating habits is very difficult to control. However, using the newest technologies, such as computer vision, will help address the said problems and boost awareness about it.
 
 ## Technologies
