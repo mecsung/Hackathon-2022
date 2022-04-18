@@ -1,6 +1,6 @@
 # HackUST Online Hackathon 2022
 ## FoodPrint
-![FoodPrint](/Images/NexUs_Logo.gif?raw=true "FoodPrint)
+![FoodPrint](/Images/NexUs_Logo.gif?raw=true "FoodPrint")
 * [General info](#general-info)
 * [Project Summary](#general-info)
 * [Technologies](#technologies)
