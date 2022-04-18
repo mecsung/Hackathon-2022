@@ -1,6 +1,5 @@
 # HackUST Online Hackathon 2022
 ## Foodprint
-![Foodprint](/Images/Foodprint.gif?raw=true "Foodprint")
 * [General info](#general-info)
 * [Project Summary](#general-info)
 * [Technologies](#technologies)
@@ -8,6 +7,7 @@
 
 ## General info
 Foodprint aims to increase awareness of health risk factors by providing warnings and precautions if your eating habits are taking an unpleasant turn. Through the use of computer vision in a wide variety of android phones, we can promote Healthier, Longer, and Better Lives.
+![Foodprint](/Images/Foodprint.gif?raw=true "Foodprint")
 
 ## Project Summary
 In today's generation, taking photos of what people eat is a massive cultural and influential phenomenon on platforms like Instagram. In fact, according to social media research by Influencer Marketing Hub in 2021, hashtags related to food such as #food, #yummy, #foodporn, and #instafood are among the 100 most popular hashtags are used in the approximately 50 billion photos posted on Instagram as of 2021. It means food is one of the most photographed subjects on the said platform. 
