@@ -33,6 +33,5 @@ Project is created with: <br>
 - Carpio, Mariel Ann
 - Go, Neil Christian
 - [Legaspi, Marc Ace](https://github.com/mecsung/)
-- Legaspi, Marc Ace
-- Recto, Christian Justine
+- [Recto, Christian Justine](https://github.com/jcjrecto/)
 - San Juan, Patricia Anne
