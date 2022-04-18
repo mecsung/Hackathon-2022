@@ -30,7 +30,7 @@ Project is created with: <br>
 <br>
 
 ## The NexUs Team
-![The NexUs](/Hackathon-2022/Images/NexUs_Logo.gif?raw=true "The NexUs")
+![The NexUs](/Images/NexUs_Logo.gif?raw=true "The NexUs")
 - Carpio, Mariel Ann
 - Go, Neil Christian
 - [Legaspi, Marc Ace](https://github.com/mecsung/)
