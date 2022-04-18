@@ -1,6 +1,6 @@
 # HackUST Online Hackathon 2022
 ## Foodprint
-![Foodprint](/Images/Foodprint.gif?raw=true "Foodprint")
+![Foodprint](/Images/Fooprint.gif?raw=true "Foodprint")
 * [General info](#general-info)
 * [Project Summary](#general-info)
 * [Technologies](#technologies)
