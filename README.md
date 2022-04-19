@@ -26,7 +26,7 @@ This project found that controlling a person's eating habits is very difficult t
 
 ## Technologies
 Project is created with: <br>
--- python 3.9.6          <br>
+   python 3.9.6          <br>
 -- opencv                <br>
 -- tkinter               <br>
 
