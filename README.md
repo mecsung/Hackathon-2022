@@ -25,10 +25,9 @@ According to the latest update of the World Health Organization, nutritional dis
 This project found that controlling a person's eating habits is very difficult to control. However, using the newest technologies, such as computer vision, will help address the said problems and boost awareness about it.
 
 ## Technologies
-Project is created with: <br>
-   python 3.9.6          <br>
--- opencv                <br>
--- tkinter               <br>
+    python 3.9.6
+    openCV
+    tkinter
 
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
