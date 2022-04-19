@@ -38,7 +38,7 @@ Project is created with: <br>
 
 ## The NexUs Team
 ![The NexUs](/Images/NexUs_Logo.gif?raw=true "The NexUs")
-- Carpio, Mariel Ann
+- [Carpio, Mariel Ann](https://github.com/CarpioMrl/)
 - [Go, Neil Christian](https://github.com/Nichigo-GitHub/)
 - [Legaspi, Marc Ace](https://github.com/mecsung/)
 - [Recto, Christian Justine](https://github.com/jcjrecto/)
