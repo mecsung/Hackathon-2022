@@ -42,4 +42,4 @@ Project is created with: <br>
 - Go, Neil Christian
 - [Legaspi, Marc Ace](https://github.com/mecsung/)
 - [Recto, Christian Justine](https://github.com/jcjrecto/)
-- San Juan, Patricia Anne
+- [San Juan, Patricia Anne](https://github.com/sanjuanpatricia/)
